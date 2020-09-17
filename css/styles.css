@@ -136,3 +136,20 @@ body {
 .hero__button--btn:focus {
     outline: none;
 }
+
+footer {
+    display: flex;
+    height: 20rem;
+
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.footer__p {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.4rem;
+    line-height: 1.7rem;
+    color: #333333;
+}
