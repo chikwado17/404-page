@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{404page-emma.netlify.app/}">
+    <a href="https://404page-emma.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/chikwado17/404-page}">
+    <a href="https://github.com/chikwado17/404-page">
       Solution
     </a>
     <span> | </span>
@@ -62,5 +62,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 
-- GitHub [@your-username](https://{github.com/chikwado17})
-- Twitter [@your-twitter](https://{twitter.com/emma_coder})
+- GitHub [@chikwado17](https://github.com/chikwado17)
+- Twitter [@emma_coder](https://twitter.com/emma_coder)
