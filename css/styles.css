@@ -120,3 +120,19 @@ body {
     margin-bottom: 3rem;
 }
 
+.hero__button--btn {
+    font-family: 'Space Mono', monospace;
+    font-style: normal;
+    font-weight: bold;
+    border: none;
+    background-color: #333333;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    letter-spacing: -0.035em;
+    padding: 1.5rem 2.5rem;
+}
+
+.hero__button--btn:focus {
+    outline: none;
+}
